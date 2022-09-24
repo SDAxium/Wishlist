@@ -33,7 +33,8 @@ Here's a walkthrough of implemented user stories:
 GIF created with Screen Recorder(android)  
 
 ## Notes
-
+User does not have to input a currency amount into price input field
+Items from list appear behind input text after a few items are added
 
 ## License
 
